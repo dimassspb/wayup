@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+
+}
+
+.img {
+  width: 150px;
+}
+
+h1 {
+  color: red;
+}
+
+.pargraph1 {
+  background-color: blue;
+  color: white;
+  width: 101px;
+  margin-bottom: 100px;
+}
+
+.pargraph4 {
+  padding-left: 100px;
+}
+
+span {
+  color: red;
+}
+
+h2 {
+  color: white;
+  background-color: green;
+}
+
+.h2_1 {
+  height: 37px;
+  padding: 5px;
+}
+
+.h2_2 {
+  height: 117px;
+  padding-left: 45px;
+  padding-top: 50px;
+}
+
+.list li {
+  border: 1px solid black;
+  font-size: 30px;
+}
