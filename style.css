@@ -34,8 +34,7 @@ h2 {
 
 .h2_2 {
   height: 117px;
-  padding-left: 45px;
-  padding-top: 50px;
+  padding: 50px 0 0 45px;
 }
 
 .list li {
