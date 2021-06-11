@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-
 }
 
 .img {
@@ -29,7 +28,7 @@ span {
 h2 {
   color: white;
   background-color: green;
-    height: 37px;
+  height: 37px;
   padding: 5px;
 }
 
